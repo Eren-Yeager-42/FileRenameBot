@@ -1,0 +1,9 @@
+body {
+ font-family: 
+sans-serif;
+ text-align: center;
+}
+.driverSeat {
+ display: inline-block;
+ font-size: 18px;
+}
